@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Philosophers'
 - !lcc 'B'
+- GITenberg
 tableOfContents: Socrates -- Seneca -- Aristotle -- Marcus Aurelius -- Immanuel Kant
   -- Swedenborg -- Spinoza -- Auguste Comte -- Voltaire -- Herbert Spencer -- Schopenhauer
   -- Henry D. Thoreau.
